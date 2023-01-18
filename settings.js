@@ -26,29 +26,29 @@ global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
 //language
 //Available in indonesia , english & spanyol 
 //You can request others language 
-global.language = indonesia //change indonesia to english if you don't understand the language used by the bot
+global.language = english //change indonesia to english if you don't understand the language used by the bot
 
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
-global.youtube = "https://youtube.com/@ChZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://s.id/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.botname = "ᴍͥ ʀ  ᴊ ᴀᷧɴⷨ ɪ ⁰⁰⁶ 🕵🏻‍♂️🔨" //namabot kalian
+global.ownername = "ᴹᴿ᭄ ᴍͥ ʀ  ᴊ ᴀᷧɴⷨ ɪ ⁰⁰⁶ 🕵🏻‍♂️🔨 ×፝֟͜×" //nama kalian
+global.myweb = "https://github.com/janith2007-new/janith2007-new" //bebas asal jan hapus
+global.youtube = "https://github.com/janith2007-new/janith2007-new" //bebas asal jan hapus
+global.myweb2 = "https://chat.whatsapp.com/LJyqQ5nRvho6a0464fhmsS" //bebas
+global.email = "realshaggy2007@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['62887435047326'] //premium user
-global.owner = ["62887435047326", "622150996855"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "62887435047326" // nomor wa kalian
-global.ownernomerr = "+62887435047326" //nmr wa kalian
+global.premium = ['94727785006'] //premium user
+global.owner = ["94727785006", "94727785006"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "94727785006" // nomor wa kalian
+global.ownernomerr = "94727785006" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Alphabot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.packname = '© 🎭⃞Tᵒ⃯ʷ⃯ᵐ⃯ᵉ༗𝐒𝐇𝐀𝐆𝐆𝐘☽🤹‍♂️' //sticker wm ubah
+global.author = 'Diॐ⃞𝐌ᴬෆි⃝𝚢αᵂ͢ᴱ᳀ශැගීහ්🌙⃯™᭄' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
@@ -122,15 +122,15 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['', '!', '.', '🐦', '🐤', '🗿']
 global.sp = '⭔'
 global.mess = {
-   sukses: '🤗Done, Oke Desu~',
-   admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
-   botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-   owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
+   sukses: '🤗Done',
+   admin: '❤️this can use only admin !',
+   botAdmin: '❤️This can use only ᴍͥ ʀ  ᴊ ᴀᷧɴⷨ ɪ ⁰⁰⁶ 🕵🏻‍♂️🔨 !',
+   owner: 'only ᴍͥ ʀ  ᴊ ᴀᷧɴⷨ ɪ ⁰⁰⁶ 🕵🏻‍♂️🔨!',
    group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
    private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
-   bot: 'Fitur Khusus Pengguna Nomor Bot',
+   bot: 'ᴍͥ ʀ  ᴊ ᴀᷧɴⷨ ɪ ⁰⁰⁶ 🕵🏻‍♂️🔨',
    errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
-   wait: '⏳ Sedang Di Proses',
+   wait: '⏳ wait',
    lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
    example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
